@@ -13,3 +13,4 @@ requests
 langchain-openai
 chromadb
 langchain_huggingface
+faiss-cpu
