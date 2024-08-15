@@ -2,6 +2,7 @@
 venv-genai/
 resources/
 chroma_db/
+research_papers/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
