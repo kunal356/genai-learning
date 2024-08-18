@@ -24,3 +24,5 @@ uvicorn
 sse_starlette
 duckduckgo-search
 langchainhub
+mysql-connector-python
+SQLAlchemy
