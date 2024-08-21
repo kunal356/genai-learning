@@ -31,3 +31,4 @@ youtube_transcript_api
 unstructured
 pytube
 numexpr
+huggingface_hub
