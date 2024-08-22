@@ -32,3 +32,12 @@ unstructured
 pytube
 numexpr
 huggingface_hub
+cassio 
+datasets 
+langchain 
+openai 
+tiktoken
+PyPDF2
+langchain-google-genai
+google-generativeai
+langchain-astradb
