@@ -41,3 +41,4 @@ PyPDF2
 langchain-google-genai
 google-generativeai
 langchain-astradb
+gradio
