@@ -4,6 +4,7 @@ resources/
 chroma_db/
 # Database files
 *.db
+*sqlite3
 *.pdf
 # Byte-compiled / optimized / DLL files
 __pycache__/
