@@ -3,6 +3,7 @@ venv-genai/
 resources/
 chroma_db/
 # Database files
+db/
 *.db
 *sqlite3
 *.pdf
